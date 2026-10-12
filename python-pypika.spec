@@ -1,6 +1,6 @@
 Name:		python-pypika
 Version:	0.48.9
-Release:	1
+Release:	2
 Summary:	SQL query builder, Frappe fork
 License:	Apache-2.0
 Group:		Development/Python
